@@ -32,7 +32,7 @@
 
 ### 👀 Visitors
 <div align="center">
-  <img src="https://count.getloli.com/get/@saroj-codes?theme=original-new" alt="saroj-codes count"/>
+  <img src="https://count.getloli.com/get/@saroj-codes?theme=rule34" alt="saroj-codes count"/>
   <p>Thanks to visited.</p>
 </div>
 <div align=right>
