@@ -44,12 +44,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=saroj-codes&row=1&column=8&no-frame=true&no-bg=true" alt="frg2089"/>
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saroj-codes&show_icons=true&locale=en&layout=compact" alt="saroj-codes" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saroj-codes&show_icons=true&locale=en" alt="saroj-codes" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saroj-codes&" alt="saroj-codes" /></p>
-
 
 
 
